@@ -11,8 +11,3 @@ Sobre Mim:<br>Analista de crédito no setor de financiamento imobiliário buscan
 ![](https://github-readme-stats.vercel.app/api?username=Felipe-Belotto&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Belotto&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Belotto&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Felipe-Belotto&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
