@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74A22&width=435&lines=Hello+world+!!!;eu+sou+Felipe+Belotto++;e+sou+desenvolvedor+web.)](https://git.io/typing-svg)
+
 # 🦊 Sobre mim:
 Sobre Mim:<br>Analista de crédito no setor de financiamento imobiliário buscando transição para a área de programação Front-End. Formado pelo programa Oracle Next Education com habilidades em HTML, CSS, JavaScript e React JS. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>Objetivo:<br>Transitar para a área de programação Front-End, combinando experiência analítica com o fascinante mundo do desenvolvimento web.<br><br>Tecnologias:<br>HTML, CSS, JavaScript, React JS.
 
