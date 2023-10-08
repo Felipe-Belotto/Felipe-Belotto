@@ -4,7 +4,7 @@
 Sobre Mim:<br>Analista de crédito no setor de financiamento imobiliário buscando transição para a área de programação Front-End. Formado pelo programa Oracle Next Education com habilidades em HTML, CSS, JavaScript e React JS. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>Objetivo:<br>Transitar para a área de programação Front-End, combinando experiência analítica com o fascinante mundo do desenvolvimento web.<br><br>Tecnologias:<br>HTML, CSS, JavaScript, React JS.
 
 
-## 🌐 Redes sociais:
+🌐 Redes sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/belottofelipe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belottofelipe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-belotto-a34738185/)
  
 
