@@ -1,15 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=428CF7&width=541&lines=Ol%C3%A1+mundo.+Sou+Felipe+Belotto%2C+desenvolvedor+web.++)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Felipe+Belotto;Front-end+Developer;Turning+ideas+into+reality" alt="Typing SVG" />
+  
+  <br>
+  <br>
 
-🦊 Sobre mim: <br>
-Formado pelo programa Oracle Next Education com habilidades em HTML, CSS, JavaScript e React JS. Atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>Objetivo:<br>Transitar para a área de programação Front-End, combinando experiência analítica com o fascinante mundo do desenvolvimento web.<br><br>Tecnologias:<br>HTML, CSS, JavaScript,Typescript React, Next JS.
+  <a href="https://www.felipebelotto.com">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-www.felipebelotto.com-10B981?style=for-the-badge&logoColor=white" alt="Website"/>
+  </a>
+</div>
 
+<br>
 
-🌐 Redes sociais: <br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/belottofelipe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belottofelipe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-belotto-a34738185/)
- 
+## ⚡ About Me
 
-💻  Tecnologias: <br>
+Passionate about creating modern and functional interfaces. Currently working as a **Junior Front-end Developer**, combining design and performance to deliver high-level web experiences.
 
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+- 🎓 **Education:** Systems Analysis and Development Student & Oracle Next Education Alumni.
+- 💼 **Currently:** Focused on **React, Next.js, TypeScript**, and working with AI integration via **AI SDK**.
+- 🚀 **Goal:** To continuously improve scalable project architecture and UX/UI.
+
+<br>
+
+## 🛠 Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Ready to turn your idea into reality?</sub><br>
+  <a href="https://www.felipebelotto.com"><strong>Get in touch via my website</strong></a>
+</div>
