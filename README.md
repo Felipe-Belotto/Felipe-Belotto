@@ -13,7 +13,7 @@
 
 ## ⚡ About Me
 
-Passionate about creating modern and functional interfaces. Currently working as a **Junior Front-end Developer**, combining design and performance to deliver high-level web experiences.
+Passionate about creating modern and functional interfaces. Currently working as a **Full Stack Developer**, combining design and performance to deliver high-level web experiences.
 
 - 🎓 **Education:** Systems Analysis and Development Student & Oracle Next Education Alumni.
 - 💼 **Currently:** Focused on **React, Next.js, TypeScript**, and working with AI integration via **AI SDK**.
